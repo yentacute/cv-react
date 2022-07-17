@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700&display=swap');
+.container {
+    display: flex;
+    max-width: 1240px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #ccc;
+    padding: 10rem 15px 15px;
+    font-family: 'Archivo', sans-serif;
+    color: #44566C;
+    font-weight: normal;
+    letter-spacing: normal;
+    font-size: 15px;
+}
